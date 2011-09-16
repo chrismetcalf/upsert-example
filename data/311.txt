@@ -1,0 +1,4 @@
+ticket_id	subject	status	date_submitted
+1	Missing manhole cover	SUBMITTED	9/14/11
+2	Sweater placed on monument	RESOLVED	9/16/11
+3	Pidgeons in park	REJECTED	9/15/11

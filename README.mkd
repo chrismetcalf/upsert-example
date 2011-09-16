@@ -1,0 +1,7 @@
+Just some early attempts to hack around with the beta SODA Publisher 2.0 APIs
+
+Notes:
+- Make sure you provide your login, application token, and dataset UID information in config/config.yml. Config.example.yml provides the structure
+- The script consumes a TSV file passed as an argument to the script
+- The dataset you load into must have its columns configured with "API Identifiers" (Column Properties -> Advanced) that match the headers in your TSV file.
+- The dataset must have a row identifier (configured in the dataset metadata) that is included in your TSV file
